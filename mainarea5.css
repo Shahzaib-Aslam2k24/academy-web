@@ -1,0 +1,284 @@
+.mainarea5pic img{
+	height: 500px;
+}
+.row{
+	margin-left: 0px;
+	margin-right: 0px;
+	height: 500px;
+	
+	position: relative;
+	margin-top: -500px;
+}
+.col1{
+	
+	height: 500px;
+}
+.col1 h2{
+	margin-top: 30px;
+	text-transform: uppercase;
+	color: skyblue;
+	font-weight: bold;
+}
+
+/*
+Cards pics in colum one
+*/
+
+.card1{
+	width: 20%;
+	height: 8%;
+	float: left;
+}
+.card1 img{
+	width: 100%;
+	height: 100%;
+}
+
+
+.card2{
+	width: 20%;
+	height: 8%;
+	margin-left: 10px;
+	float: left;
+}
+.card2 img{
+	width: 100%;
+	height: 100%;
+}
+
+.card3{
+	width: 20%;
+	height: 8%;
+	margin-left: 10px;
+	float: left;
+}
+.card3 img{
+	width: 100%;
+	height: 100%;
+}
+
+.card4{
+	width: 20%;
+	height: 8%;
+	margin-left: 10px;
+	float: left;
+}
+.card4 img{
+	width: 100%;
+	height: 100%;
+}
+
+
+/*Cards pics in colum one End*/
+.col2{
+	color: white;
+	/*height: 500px;*/
+
+}
+.col2 ul{
+	margin-top: 30px;
+}
+.col2 li{
+	margin-top: 5px;
+}
+.col3{
+	color: white;
+	
+	/*height: 500px;*/
+}
+
+.col3textblock{
+	float: left;
+	margin-top: 17px;
+	width: 100%;
+	height: 100%;
+}
+/*** Col Three End **/
+
+.latest1{
+
+	width:50px;
+	height: 50px;
+	border: 1px solid white;
+	border-radius: 100%;
+	float: left;
+}
+.latest1 p{
+	margin-top: 2px;
+    margin-left: 13px;
+	font-weight: bold;
+	float: left;
+}
+
+.lasttext1{
+	float: left;
+	margin-top: 5px;
+	margin-left: 40px;
+
+}
+
+
+
+
+/**Circle 2 start **/
+.latest2{
+	margin-top: 20px;
+	width:50px;
+	height: 50px;
+	border: 1px solid white;
+	border-radius: 100%;
+	float: left;
+}
+
+.latest2 p{
+	margin-top: 2px;
+    margin-left: 13px;
+	font-weight: bold;
+	float: left;
+}
+
+.lasttext2{
+	float: left;
+    margin-top: -46px;
+    margin-left: 92px;
+
+
+}
+/*Latest dtate 3*/
+.latest3{
+	margin-top: 20px;
+	width:50px;
+	height: 50px;
+	border: 1px solid white;
+	border-radius: 100%;
+	float: left;
+}
+
+.latest3 p{
+	margin-top: 2px;
+    margin-left: 13px;
+	font-weight: bold;
+	float: left;
+}
+
+.lasttext3 p{
+	margin-top: 20px;
+	float: left;
+	margin-left: 40px;
+
+}
+
+
+
+/*** Col Four **/
+.col4{
+
+	color: white;
+	/*height: 500px;*/
+}
+
+.col4textblock{
+	float: left;
+	margin-top: 17px;
+	width: 100%;
+	height: 100%;
+}
+/*** Col Four End **/
+
+
+#location{
+	color: white;
+	font-size: 15px;
+}
+
+#comment{
+	margin-top: 20px;
+	color: white;
+	font-size: 15px;
+}
+
+
+#mobile2{
+	margin-top: 20px;
+	color: white;
+	font-size: 25px;
+}
+
+.col4iconblack{
+	margin-top: 30px;
+	float: left;
+	width: 100%;
+
+}
+.icon1{
+	width: 15%;
+	background: lightskyblue;
+	border-radius: 100%;
+	float: left;
+}
+#twitter{
+	color: black;
+	font-size: 20px;
+	margin-left: 10px;
+}
+
+
+.icon2{
+	width: 15%;
+	background: blue;
+	background: lightskyblue;
+	border-radius: 100%;
+	margin-left: 10px;
+	float: left;
+}
+#facbook{
+	color: black;
+	font-size: 20px;
+	margin-left: 10px;
+}
+
+
+
+.icon3{
+	width: 15%;
+	background: blue;
+	border-radius: 100%;
+	background: lightskyblue;
+	margin-left: 10px;
+	float: left;
+}
+#fairfox{
+	color: black;
+	font-size: 20px;
+	margin-left: 10px;
+}
+
+
+.icon4{
+	width: 15%;
+	background: blue;
+	border-radius: 100%;
+	background: lightskyblue;
+	margin-left: 10px;
+	float: left;
+}
+#git{
+	color: black;
+	font-size: 20px;
+	margin-left: 10px;
+}
+
+
+.icon5{
+	width: 15%;
+	background: blue;
+	border-radius: 100%;
+	background: lightskyblue;
+	margin-left: 10px;
+	float: left;
+}
+#amazon{
+	color: black;
+	font-size: 20px;
+	margin-left: 10px;
+}

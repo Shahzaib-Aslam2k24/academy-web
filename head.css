@@ -1,0 +1,122 @@
+@media screen and (max-width:900px)
+{
+    width:100%;
+    height100%;
+    margin: 0px auto;
+    padding: 0px auto;
+}
+.outsideheader1{
+    width: 100%;
+height: 30px;
+background-color: #04AEF1;
+}
+.osh1{
+	/*width: 45%;*/
+	height: 30px;
+	margin-left: 120px;
+	float: left;
+}
+#mobile{
+	font-size: 27px;
+    color: white;
+    float: left;
+}
+.icontext1{
+	color: white;
+    font-size: 15px;
+    margin-top: 3px;
+    margin-left: 5px;
+    float: left;
+}
+#sms{
+	color: white;
+    margin-left: 10px;
+    font-size: 19px;
+    float: left;
+    margin-top: 3px;
+}
+.icontext2{
+	margin-left: 5px;
+    color: white;
+    float: left;
+    margin-top: 4px;
+    font-size: 14px;
+}
+#clock{
+	color: white;
+    margin-left: 10px;
+    font-size: 21px;
+    margin-top: 4px;
+    float: left;
+}
+.icontext3{
+	font-size: 15px;
+    color: white;
+    float: left;
+    margin-left: 5px;
+    margin-top: 3px;
+}
+ 
+.osh2{
+	width: 15%;
+	height: 30px;
+	float: right;
+	margin-right: 120px;
+}
+#user{
+	color: white;
+    font-size: 20px;
+    float: left;
+    margin-top: 4px;
+}
+.icontext4{
+	color: white;
+    margin-left: 10px;
+    margin-top: 8px;
+    font-size: 13px;
+    font-family: emoji;
+    float: left;
+
+}
+#shopping{
+	color: white;
+	font-size: 20px;
+	float: left;
+	margin-top: 4px;
+	margin-left: 10px;
+}
+.icontext5{
+  	color: white;
+    
+    margin-top: 4px;
+    font-size: 14px;
+    font-family: emoji;
+    float: left;
+    margin-left: 8px;
+}
+
+
+.outsideheader2{
+	height: 80px;
+	background-color: #373C50;
+}
+.insideosh1{
+	
+	height: 80px;
+	float: left;
+	margin-left:20%;
+	
+}
+.insidetexth1 h3{
+    color: skyblue;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 8px;
+}
+.insidetexth1 p{
+    color: white;
+    margin-top: -11px;
+    font-size: 12px;
+    margin-left: 2px;
+}
+
